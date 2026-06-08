@@ -1,0 +1,1 @@
+GEN_CSRCS += _press_alpha_45x36.c _clothes_alpha_19x28.c

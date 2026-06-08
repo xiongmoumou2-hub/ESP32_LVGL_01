@@ -2,3 +2,16 @@
 **/ .vscode/
 **/build/
 .git
+
+/*
+添加流程
+
+# 1. 让 Git 扫描到这个新加入的文件夹
+git add .
+# 2. 填写这次上传的记录信息（写清楚你加了什么）
+git commit -m "添加全新的 esp32inplatDemo_04 完整工程"
+# 3. 将本地仓库的内容上传到远程仓库
+git push
+# 4. 改名
+git remote set-url origin https://github.com/xiongmoumou2-hub/名称.git
+*/
